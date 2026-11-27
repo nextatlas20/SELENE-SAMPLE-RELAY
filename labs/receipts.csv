@@ -1,0 +1,4 @@
+receipt_id,canister_id,received_at,measured_mass_g,seal,revision
+RR-201,RC-101,2188-04-06T09:00:00Z,124.8,intact,1
+RR-202,RC-102,2188-04-07T11:15:00Z,80.0,intact,1
+RR-203,RC-104,2188-04-08T07:30:00Z,44.8,intact,1

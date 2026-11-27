@@ -1,0 +1,12 @@
+canister_id,rover,site,sealed_on,expected_mass_g,priority,revision
+RC-101,Aster,Eos Ridge,2188-04-01,125.0,critical,1
+RC-102,Aster,Mira Basin,2188-04-02,80.5,standard,1
+RC-103,Boreal,Nix Shelf,2188-04-02,60.0,critical,1
+RC-104,Boreal,Talus Gate,2188-04-03,45.5,standard,1
+RC-105,Aster,Eos Ridge,2188-04-04,30.0,standard,1
+RC-106,Cygnus,Umbra Trench,2188-04-04,91.0,critical,1
+RC-107,Cygnus,Halo Plain,2188-04-05,50.0,standard,1
+RC-102,Aster, Mira Basin ,2188-04-02,82.5,standard,2
+RC-103,Boreal,Nix Shelf,2188-02-30,61.0,critical,3
+RC-108,Cygnus,Crater Rim,2188-04-05,070.0,standard,1
+bad-row
